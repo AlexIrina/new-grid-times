@@ -2,18 +2,6 @@
  * In a real app, this data would likely live in a database,
  * and be fetched from an API, either at runtime or at
  * compile-time.
- *
- * Keep in mind, this workshop is focused on CSS. In order
- * to make it easy to focus on the styling, we're cutting
- * some corners when it comes to our data management, and
- * our JavaScript in general. Please don't try to glean
- * any best-practices from stuff like this data file!
- *
- * PLEASE NOTE: I made up all these stories myself, off the
- * top of my head. It's perhaps an interesting glimpse into
- * my psyche, but nothing you read in these stories should
- * be taken as fact, or even as an opinion. It's all
- * placeholder copy.
  */
 
 export const MAIN_STORY = {
