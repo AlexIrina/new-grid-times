@@ -32,7 +32,6 @@ const Wrapper = styled.article`
 			'abstract';
 		grid-template-columns: 1fr;
 	}
-	
 `
 
 const Image = styled.img`
