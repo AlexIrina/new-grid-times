@@ -26,12 +26,13 @@ const Wrapper = styled.article`
 	color: var(--color-gray-900);
 
 	@media ${QUERIES.tabletOnly} {
-		grid-template-columns: 1fr;
 		grid-template-areas:
 			'image'
 			'heading'
 			'abstract';
+		grid-template-columns: 1fr;
 	}
+	
 `
 
 const Image = styled.img`
