@@ -70,7 +70,7 @@ const Wrapper = styled.div`
 			'main-story secondary-stories opinion-stories'
 			'main-story advertisement advertisement';
 		grid-template-columns: 5fr 4fr 3fr;
-		gap: 0;
+		gap: 0px;
 	}
 `
 
